@@ -1,0 +1,14 @@
+[
+{
+    "code": "COMMON_004",
+    "message": "Resource not found",
+    "status": 404,
+    "errors": [
+        {
+            "field": "",
+            "value": "",
+            "reason": "해당하는 유저가 없습니다."
+        }
+    ],
+    "date": "2022-05-08T18:57:09.3498112"
+}]
